@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Defensive%20programming&fontSize=80)
 <p align="center">🇰🇷 🇯🇵 🇦🇺 </p>
-👋🏻 Hi, My name is Hyomin Kim is a Software Developer. I want to be a smiling Developer. <br>
+👋🏻  Hi, My name is Hyomin Kim is a Software Developer. I want to be a smiling Developer. <br>
 And I love improving the development environment of team members. 
 
 - PHP Developer
@@ -36,7 +36,7 @@ And I love improving the development environment of team members.
     
 
 
-## ✍🏻Recent Posts
+## ✍🏻 Recent Posts
 - [시스템 감시하기 - 1. Datadog 소개](https://velog.io/@kameals/system-monitoring-datadog-intro)
 - [처음 맡은 프로젝트 설계 : 어떻게 시작하지?](https://velog.io/@kameals/how-to-start-project)
 - [TDD 테스트 주도 개발 : 천천히 시작하기](https://velog.io/@kameals/TDD-slow-start)
