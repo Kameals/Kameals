@@ -37,7 +37,8 @@ And I love improving the development environment of team members.
 
 
 ## ✍🏻 Recent Posts
-- [시스템 감시하기 - 1. Datadog 소개](https://velog.io/@kameals/system-monitoring-datadog-intro)
+- [Datadog 로그 수집 설정하기](https://velog.io/@kameals/Datadog-log)
+- [Datadog 소개](https://velog.io/@kameals/system-monitoring-datadog-intro)
 - [처음 맡은 프로젝트 설계 : 어떻게 시작하지?](https://velog.io/@kameals/how-to-start-project)
 - [TDD 테스트 주도 개발 : 천천히 시작하기](https://velog.io/@kameals/TDD-slow-start)
 - [ls보다는 exa를 사용하자! 모던 리눅스 명령어 소개(번역)](https://velog.io/@kameals/modern-linux-command)
