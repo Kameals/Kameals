@@ -57,4 +57,5 @@ And I love improving the development environment of team members.
 - 완벽한 IT인프라 구축을 위한 Docker - Asa Shiho
 - 완벽한 IT인프라 구출의 자동화를 위한 Kubernetes - Asa Shiho
 - Terraform Up & Running - 예브게니 브릭만
+- 객체지향의 사실과 오해 - 조영호
 - ... 
