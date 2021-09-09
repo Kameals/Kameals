@@ -25,7 +25,6 @@ And I love improving the development environment of team members.
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"/></a>&nbsp 
