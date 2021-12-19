@@ -40,6 +40,7 @@ And I love improving the development environment of team members.
 
 
 ## ✍🏻 Recent Posts
+- [PhpStorm과 Xdebug로 PHP 디버깅하기](https://hahman.tistory.com/entry/PhpStorm%EA%B3%BC-Xdebug%EB%A1%9C-PHP-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0)
 - [Datadog 로그 수집 설정하기](https://velog.io/@kameals/Datadog-log)
 - [Datadog 소개](https://velog.io/@kameals/system-monitoring-datadog-intro)
 - [처음 맡은 프로젝트 설계 : 어떻게 시작하지?](https://velog.io/@kameals/how-to-start-project)
@@ -48,19 +49,4 @@ And I love improving the development environment of team members.
 - [개발자가 출근 후 매일 하는 일과](https://velog.io/@kameals/developers-morning)
 - [Go언어 functions 와 methods 의 차이 (번역)](https://velog.io/@kameals/Golang-functions-vs-methods)
 - [2019년을 돌아보며](https://velog.io/@kameals/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2019%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0)
-
-## 📚 Books read
-- Clean Code - 로버트 C. 마틴
-- Refactoring - 마틴 파울러
-- Clean Architecture - 로버트 C. 마틴
-- Domain-Driven Design(DDD) - 에릭 에반스
-- Implementing Domain-Driven Design - 반 버논
-- Test-Driven Development(TDD) - 켄트 백
-- 익스트림 프로그래밍 - 켄트 백
-- 코딩을 지탱하는 기술 - 니시오 히로카즈
-- 완벽한 IT인프라 구축을 위한 Docker - Asa Shiho
-- 완벽한 IT인프라 구출의 자동화를 위한 Kubernetes - Asa Shiho
-- Terraform Up & Running - 예브게니 브릭만
-- 객체지향의 사실과 오해 - 조영호
-- ...
 
