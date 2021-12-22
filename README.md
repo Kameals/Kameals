@@ -40,6 +40,7 @@ And I love improving the development environment of team members.
 
 
 ## ✍🏻 Recent Posts
+- [Eric Raymond의 17가지 유닉스 규칙들(Unix Rules)](https://hahman.tistory.com/entry/Eric-Raymond%EC%9D%98-17%EA%B0%80%EC%A7%80-%EC%9C%A0%EB%8B%89%EC%8A%A4-%EA%B7%9C%EC%B9%99%EB%93%A4Unix-Rules)
 - [PhpStorm과 Xdebug로 PHP 디버깅하기](https://hahman.tistory.com/entry/PhpStorm%EA%B3%BC-Xdebug%EB%A1%9C-PHP-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0)
 - [Datadog 로그 수집 설정하기](https://velog.io/@kameals/Datadog-log)
 - [Datadog 소개](https://velog.io/@kameals/system-monitoring-datadog-intro)
