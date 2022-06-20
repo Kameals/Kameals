@@ -51,3 +51,7 @@ And I love improving the development environment of team members.
 - [Go언어 functions 와 methods 의 차이 (번역)](https://velog.io/@kameals/Golang-functions-vs-methods)
 - [2019년을 돌아보며](https://velog.io/@kameals/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2019%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0)
 
+## 👨🏻‍💻 My Stackoverflow
+
+https://stackoverflow.com/users/8353445/hamill-kim
+
