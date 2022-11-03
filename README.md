@@ -38,6 +38,9 @@ And I love improving the development environment of team members.
 </p>
     
 
+## 🎙️ Presentations
+- [코드 품질과 커버리지 (Modern PHP User Group - 2022년 11월 온라인 정모)](https://www.youtube.com/watch?v=clfPDeJ1vpc&t=1300s)
+
 
 ## ✍🏻 Recent Posts
 - [Eric Raymond의 17가지 유닉스 규칙들(Unix Rules)](https://hahman.tistory.com/entry/Eric-Raymond%EC%9D%98-17%EA%B0%80%EC%A7%80-%EC%9C%A0%EB%8B%89%EC%8A%A4-%EA%B7%9C%EC%B9%99%EB%93%A4Unix-Rules)
