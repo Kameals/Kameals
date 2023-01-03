@@ -1,45 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Defensive%20programming&fontSize=80)
-<p align="center">🇰🇷 🇯🇵 🇦🇺 </p>
+<p align="center">🇰🇷 🇯🇵 </p>
 👋🏻  Hi, My name is Hyomin Kim is a Software Developer. I want to be a smiling Developer. <br>
 And I love improving the development environment of team members. 
-
-- PHP Developer
-- DevOps
-- Swimming Lover
-
-
-
-## ⚙️ Tech Stacks
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?&style=flat-square&logo=php&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Nextdotjs&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Nodedotjs&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>&nbsp 
-</p>
-<p>
-  <h3>
-    
-</h3>
-  
-</p>
     
 
 ## 🎙️ Presentations
-- [코드 품질과 커버리지 (Modern PHP User Group - 2022년 11월 온라인 정모)](https://www.youtube.com/watch?v=clfPDeJ1vpc&t=1300s)
+- [코드 품질과 커버리지 (Modern PHP User Group - 2022년 11월 온라인 정모)](https://youtu.be/lK5GrUkkrRY)
 
 
 ## ✍🏻 Recent Posts
